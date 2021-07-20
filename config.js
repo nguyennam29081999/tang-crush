@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'Linh à!',
     introDesc: `Trên thế giới có hơn 7 tỉ nụ cười
     nhưng đối với tớ nụ cười của cậu mới là đẹp nhất
-    Vậy hãy để tớ giữ mãi nụ cười của cậu trên môi`,
-    btnIntro: 'hihi',
+    .Vậy hãy để tớ giữ mãi nụ cười của cậu trên môi`,
+    btnIntro: 'Ỏooo <3',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
